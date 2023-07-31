@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T21:22:01.449Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="D9Jtd08XGvJn-CkbBa1Q" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T21:22:49.446Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="yeVqiVcfDJq8y87vcPiY" version="21.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="504" dy="294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -238,6 +238,12 @@
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-56" value="Instrumentation sample event number and timing are adjustable." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1027.5" y="770" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj45srjJssvY64gcDlcu-57" value="$36" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1210" y="706.44" width="30" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj45srjJssvY64gcDlcu-58" value="$37" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1250" y="707.44" width="30" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
