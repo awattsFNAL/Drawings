@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T21:33:32.438Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="L_I1TAYLpl86ejBymD4u" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T21:33:42.931Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="7VW3_stiaYdo0-h5x1M9" version="21.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="730" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -174,7 +174,7 @@
           <mxGeometry x="710" y="705.44" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-43" value="Number of Booster batches are variable, based on experiment request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="770" y="533.44" width="150" height="30" as="geometry" />
+          <mxGeometry x="780" y="543.44" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-44" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
