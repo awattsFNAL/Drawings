@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T21:33:50.607Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="9CDbB7lhWuSV5p-WmnaK" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T21:37:28.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="V1tbRCzLsx0nkFVLENd5" version="21.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="730" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
         <mxCell id="Cj45srjJssvY64gcDlcu-29" value="RR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4C8C2B;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="710" y="650.44" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Cj45srjJssvY64gcDlcu-30" value="$20" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#8A2A2B;strokeColor=#8A2A2B;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Cj45srjJssvY64gcDlcu-30" value="$20" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFCCCC;strokeColor=#FFCCCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="910" y="679.44" width="30" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-31" value="MI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#8A2A2B;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -260,8 +260,8 @@
         <mxCell id="Cj45srjJssvY64gcDlcu-67" value="Slow-ramping power supply pre-pulse trigger" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="861.88" y="770" width="66.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Cj45srjJssvY64gcDlcu-68" value="$2?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1215" y="652.44" width="30" height="28" as="geometry" />
+        <mxCell id="Cj45srjJssvY64gcDlcu-68" value="$2?" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCCCC;fontColor=#FFCCCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1215" y="678.44" width="30" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
