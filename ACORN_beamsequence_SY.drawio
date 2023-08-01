@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T17:41:47.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="rK4ftAEgtIFFt5CPqkpM" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T17:43:10.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="VAQbwlWQW1cs6frN1Vfd" version="21.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="989" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -298,6 +298,9 @@
         </mxCell>
         <mxCell id="x4T1kLudBK5OW_h9AA7s-7" value="MI Acceleration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="530" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x4T1kLudBK5OW_h9AA7s-9" value="$25" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="990" y="680.44" width="30" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
