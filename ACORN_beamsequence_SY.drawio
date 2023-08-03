@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T15:39:50.135Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="E4-6J6NlmgtFsMfONTn2" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T15:42:07.621Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="07rJeqx_-014TGcpnYu7" version="21.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="658" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -219,7 +219,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-56" value="Instrumentation sample event number and timing are adjustable." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1063.75" y="772" width="102.5" height="30" as="geometry" />
+          <mxGeometry x="1076.88" y="776" width="76.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-57" value="$36" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1235" y="708.44" width="30" height="28" as="geometry" />
@@ -229,20 +229,20 @@
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-59" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1249.76" y="767.44" as="sourcePoint" />
-            <mxPoint x="1249.76" y="737.44" as="targetPoint" />
+            <mxPoint x="1255" y="772" as="sourcePoint" />
+            <mxPoint x="1255" y="742" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-60" value="End of beam spill" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1229" y="772" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-61" value="Post-beam integrator sample" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1269" y="772" width="45" height="30" as="geometry" />
+          <mxGeometry x="1272" y="776" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-63" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1288.76" y="767.44" as="sourcePoint" />
-            <mxPoint x="1288.76" y="737.44" as="targetPoint" />
+            <mxPoint x="1294" y="772" as="sourcePoint" />
+            <mxPoint x="1294" y="742" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-64" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -253,12 +253,12 @@
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-66" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="894.76" y="767.44" as="sourcePoint" />
-            <mxPoint x="894.76" y="737.44" as="targetPoint" />
+            <mxPoint x="900" y="772" as="sourcePoint" />
+            <mxPoint x="900" y="742" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-67" value="Slow-ramping power supply pre-pulse trigger" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="861.88" y="772" width="66.25" height="30" as="geometry" />
+          <mxGeometry x="861.88" y="776" width="66.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cj45srjJssvY64gcDlcu-68" value="$2F" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1235" y="678.44" width="30" height="28" as="geometry" />
@@ -301,6 +301,15 @@
         </mxCell>
         <mxCell id="x4T1kLudBK5OW_h9AA7s-9" value="$25" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="990" y="680.44" width="30" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RuoBxUdbHCiyp6AJjKS3-0" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1043.66" y="772" as="sourcePoint" />
+            <mxPoint x="1043.66" y="742" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuoBxUdbHCiyp6AJjKS3-1" value="Start of spill, reflected BSYNC $74" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020" y="776" width="46.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
