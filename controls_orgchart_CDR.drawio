@@ -1,9 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T19:35:57.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.6.6" etag="_uo_VgdmLIfZNCf-Hifc" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T23:48:24.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="m3DPsdoV-r29bxojdmR-" version="21.6.6" type="github">
   <diagram name="Page-1" id="PoMAV4WAgS07IKXhG-20">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="txLdyjhk89OyVSOM-sQs-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="110.5" y="56" width="891" height="344" as="geometry" />
+        </mxCell>
+        <mxCell id="txLdyjhk89OyVSOM-sQs-5" value="System Services" style="rounded=1;fillColor=#41B6E6;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#000000;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="456" y="143" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txLdyjhk89OyVSOM-sQs-6" value="Software" style="rounded=1;fillColor=#41B6E6;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#000000;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="236" y="143" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txLdyjhk89OyVSOM-sQs-7" value="Front Ends" style="rounded=1;fillColor=#41B6E6;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#000000;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="678" y="143" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txLdyjhk89OyVSOM-sQs-8" value="ACORN Project" style="rounded=1;fillColor=#41B6E6;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#000000;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="347" y="234" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txLdyjhk89OyVSOM-sQs-10" value="Controls Hardware" style="rounded=1;fillColor=#41B6E6;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#000000;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="567" y="234" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txLdyjhk89OyVSOM-sQs-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#B3B3B3;strokeWidth=2;" edge="1" parent="1" source="txLdyjhk89OyVSOM-sQs-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="667" y="415.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="txLdyjhk89OyVSOM-sQs-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#B3B3B3;strokeWidth=2;" edge="1" parent="1" source="txLdyjhk89OyVSOM-sQs-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="667" y="364.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="txLdyjhk89OyVSOM-sQs-17" value="Accelerator AI/ML" style="rounded=1;fillColor=#41B6E6;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#000000;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="456" y="313" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txLdyjhk89OyVSOM-sQs-23" value="System Integration" style="rounded=1;fillColor=#41B6E6;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#000000;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="127" y="234" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txLdyjhk89OyVSOM-sQs-24" value="Networks" style="rounded=1;fillColor=#41B6E6;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#000000;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="792" y="234" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txLdyjhk89OyVSOM-sQs-39" value="Controls Department" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=34;" vertex="1" parent="1">
+          <mxGeometry x="291.13" y="84" width="529.75" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
