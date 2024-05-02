@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T15:42:13.417Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="sevEErmve8w-WOMKXal-" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T21:31:02.660Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="NSgL9JTG90ULZYRwdVVH" version="24.3.0" type="github">
   <diagram name="Page-1" id="v0yi8HXEAamx-xVk284D">
     <mxGraphModel dx="1122" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="uR5suj7HJIv4veP70v_R-19" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="753" y="120" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uR5suj7HJIv4veP70v_R-4" value="Status update to affected requirements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uR5suj7HJIv4veP70v_R-19">
+        <mxCell id="uR5suj7HJIv4veP70v_R-4" value="Update requirements statuses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uR5suj7HJIv4veP70v_R-19">
           <mxGeometry x="5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uR5suj7HJIv4veP70v_R-14" value="Requirements manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uR5suj7HJIv4veP70v_R-19">
