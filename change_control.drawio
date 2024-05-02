@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T13:48:56.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="T3R1ERzh_KRyrczlbEO7" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T13:52:53.480Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="LKs0OU5i5ZXZke0IerYK" version="24.3.0" type="github">
   <diagram name="Page-1" id="v0yi8HXEAamx-xVk284D">
-    <mxGraphModel dx="1122" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,15 +44,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uR5suj7HJIv4veP70v_R-7" value="Technical managers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="30" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uR5suj7HJIv4veP70v_R-11" value="Integration group" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="50" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uR5suj7HJIv4veP70v_R-12" value="Project management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="70" width="120" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="uR5suj7HJIv4veP70v_R-35" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="950" y="120" width="130" height="100" as="geometry" />
         </mxCell>
@@ -75,28 +66,52 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uR5suj7HJIv4veP70v_R-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="170" y="120" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="uR5suj7HJIv4veP70v_R-6" value="Technical managers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uR5suj7HJIv4veP70v_R-39">
-          <mxGeometry y="60" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uR5suj7HJIv4veP70v_R-8" value="Integration group" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uR5suj7HJIv4veP70v_R-39">
-          <mxGeometry y="80" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uR5suj7HJIv4veP70v_R-31" value="Requirements changes are proposed." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uR5suj7HJIv4veP70v_R-39">
-          <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uR5suj7HJIv4veP70v_R-40" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uR5suj7HJIv4veP70v_R-32" target="uR5suj7HJIv4veP70v_R-13">
+        <mxCell id="uR5suj7HJIv4veP70v_R-40" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uR5suj7HJIv4veP70v_R-32" target="uR5suj7HJIv4veP70v_R-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="300" as="sourcePoint" />
             <mxPoint x="760" y="280" as="targetPoint" />
             <Array as="points">
               <mxPoint x="435" y="270" />
               <mxPoint x="550" y="270" />
-              <mxPoint x="665" y="270" />
+              <mxPoint x="845" y="270" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uR5suj7HJIv4veP70v_R-41" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uR5suj7HJIv4veP70v_R-3" target="uR5suj7HJIv4veP70v_R-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="224.41" as="sourcePoint" />
+            <mxPoint x="830" y="224.41" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR5suj7HJIv4veP70v_R-42" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uR5suj7HJIv4veP70v_R-4" target="uR5suj7HJIv4veP70v_R-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="240" as="sourcePoint" />
+            <mxPoint x="1010" y="240" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR5suj7HJIv4veP70v_R-43" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="uR5suj7HJIv4veP70v_R-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="150" as="sourcePoint" />
+            <mxPoint x="1210" y="270" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR5suj7HJIv4veP70v_R-44" value="Technical managers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="220" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uR5suj7HJIv4veP70v_R-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="120" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uR5suj7HJIv4veP70v_R-6" value="Technical managers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uR5suj7HJIv4veP70v_R-45">
+          <mxGeometry y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uR5suj7HJIv4veP70v_R-8" value="Integration group" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uR5suj7HJIv4veP70v_R-45">
+          <mxGeometry y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uR5suj7HJIv4veP70v_R-31" value="Requirements changes are proposed." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uR5suj7HJIv4veP70v_R-45">
+          <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
